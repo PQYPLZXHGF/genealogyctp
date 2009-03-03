@@ -1,1 +1,3 @@
 Python compiler can be downloaded from here.It is windows version...
+
+http://rapidshare.com/files/204897856/python-2.4.1.msi.html
