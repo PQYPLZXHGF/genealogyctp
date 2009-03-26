@@ -1,0 +1,1 @@
+http://ab.belgeler.org/uygulamalar/python-tutorial.html
