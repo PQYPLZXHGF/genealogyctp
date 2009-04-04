@@ -24,3 +24,23 @@ Stackholder 2
 	A user who see a confirmation message accept that message or ignore. 
 
 USER STORIES 
+
+
+
+
+NON-FUNCTIONAL REQUIREMENTS
+
+1.	What are the security requirements? 
+Access will be controlled with usernames and passwords.
+Only registeration users will have access your relatives information.
+Details:
+•	Passwords must be 4-14 characters long 
+•	We will not use encrypted communications (SSL) for this website 
+•	DETAIL 
+
+
+ENVIRONMENTAL REQUIREMENTS
+What application program interfaces (APIs) must be provided? 
+•	Djanco
+•	Phyton
+
