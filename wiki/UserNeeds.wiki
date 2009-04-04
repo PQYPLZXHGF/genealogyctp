@@ -1,0 +1,26 @@
+USER NEEDS
+
+AGREED GOALS
+ 
+ A user can create own genealogy tree and also see your relatives.
+
+ENVIRONMENT
+
+Every computers run genealogy software.
+
+STACKHOLDERS / ACTORS
+
+All
+	All stackholders share tje following key needs :
+1.	Security against abuses by other site visitors.
+2.	After log in,can see your genealogy tree and if do searching,a user find your that name or if not find,a user can add in your genealogy tree.
+
+Stackholder 1
+
+	A user may want to have genealogy tree.A user can add your relative to write name and surname or he/she use searching and write name and surname whatever a user want to find.if find,send confirmation message that your relative.If not find,add that your relative.
+
+Stackholder 2
+
+	A user who see a confirmation message accept that message or ignore. 
+
+USER STORIES 
