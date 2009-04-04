@@ -25,6 +25,17 @@ Stackholder 2
 
 USER STORIES 
 
+Monday:
+
+Pınar get lost.She want to see her relatives.She searches her brother Görkem but cannot find.She make profile for her brother Görkem.She enters basic informations about her and relationship between her brother.After, she searches her aunt Gülser and finds.She sends confirmation to her aunt for check the truth of her relationship.
+
+Tuesday:
+
+Mrs. Gülser enters the system.She updates her information.She sees the confirmation that come from Pınar and confirm it.
+
+Wednesday:
+
+Pınar enters the system.She sees the message that is accepted.She looks relative list and sees the Görkem and Gülser.
 
 
 
@@ -43,4 +54,3 @@ ENVIRONMENTAL REQUIREMENTS
 What application program interfaces (APIs) must be provided? 
 •	Djanco
 •	Phyton
-
