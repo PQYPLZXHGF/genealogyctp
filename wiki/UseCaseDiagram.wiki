@@ -13,3 +13,16 @@ USE CASE 3
 
 
 http://img5.imageshack.us/img5/7346/ucdiagram.jpg
+
+
+
+ACTOR DIAGRAM
+
+
+http://img408.imageshack.us/img408/2522/actordiagram.jpg
+
+
+ACTIVITY SCHEMA
+
+
+http://img408.imageshack.us/img408/5999/activityschema.jpg
